@@ -1,0 +1,47 @@
+Prompt 1:
+quiero que mejores este prompt:
+quiero que asumas el rol de desarrollador enfocado en el apartado visual, css, 
+necesito que me generes un estilo css para el siguiente etiquetado html.
+html:
+que quiero que realices:
+1. Quiero que este todo el contenido centrado dentro de un contenedor.
+2. Quiero que el logo estece en el centro de la pagian en la parte superior.
+3. A continuacion seguida bajo el logo las palabras tanto como autor, nickname, 
+y nombre del curso en letras grandes color dorado verdoso.
+4.Quiero que sobre los botones de hipervínculo la descripción que esta sobre cada uno 
+estese centro de un pequeño contenedor el cual tendrá el p(donde esta la descripción del juego 
+y bajo la descripción el botón que redirige hacia los juegos.) 
+5. Los botones que redirigen a los juegos deben estar con bordes redondeados 
+y tener profundidad y cuando el cursor pase sobre ellos cambiar de color(colores de elección
+ de blanco de fondo con letras negras pasar a fondo verde con letras negras).
+6. El fondo de la pagina debe ser de colo llamativo, como azul gaming. 
+7. El contenedorBoton el párrafo p debe estar de otro color llamativo.
+
+Prompt 2:
+Actúa como un Desarrollador Frontend experto en UI/UX y CSS Moderno.
+Tu objetivo es crear una hoja de estilos atractiva y funcional para una plataforma de juegos con estética "Gaming".
+Instrucciones de Diseño:
+Layout General: Utiliza un contenedor principal centrado vertical y horizontalmente en la pantalla. 
+El fondo de la página (body) debe tener un color Azul Gaming vibrante (puedes usar un gradiente para darle profundidad).
+
+Cabecera: Ubica el logo en la parte superior central. Debajo de él, los elementos de autor, 
+nickname y nombre del curso deben destacar con una tipografía de gran tamaño 
+y un color dorado verdoso (efecto metálico o neón).
+
+Tarjetas de Juego (ContenedorBoton): * Cada bloque que contiene la descripción (p) 
+y el botón debe comportarse como una card independiente.
+
+El texto de descripción debe estar encerrado en su propio micro-contenedor con un color de fuente 
+llamativo que contraste con el fondo.
+
+Centra todo el contenido dentro de estas tarjetas.
+
+Estilo de Botones: * Aplica bordes redondeados y un efecto de profundidad (box-shadow).
+
+Estado Inicial: Fondo blanco con letras negras.
+
+Estado Hover: Transición suave hacia un fondo verde con letras negras.
+
+Código: Proporciona un CSS limpio, organizado y con comentarios, asegurando que sea totalmente responsivo.
+
+HTML de referencia:
